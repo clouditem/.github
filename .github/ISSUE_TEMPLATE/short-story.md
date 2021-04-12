@@ -1,17 +1,18 @@
 ---
 name: Short Story
-about: Describe this issue template's purpose here.
+about: Template for simple Userstorys
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-##type of user
-As a 
-##perform task
-i want to
-##achieve a goal
-so that i can 
+As a |  _type of user_
+------- | --------
+i want to | _perform task_
+so that i can | _achieve  a goal_
 
-#Acceptance criteria
+| Acceptance criteria |
+| - |
+| _Criteria_1_ |
+| _Criteria_2_ |
