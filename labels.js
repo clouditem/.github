@@ -8,19 +8,64 @@
 
 const extracted_labels = [
   {
-    "name": "bug",
-    "description": "Something isn't working",
-    "color": "d73a4a"
+    "name": "Project",
+    "description": null,
+    "color": "0052cc"
   },
   {
-    "name": "documentation",
-    "description": "Improvements or additions to documentation",
-    "color": "0075ca"
+    "name": "Stahl Gmbh",
+    "description": null,
+    "color": "b60205"
   },
   {
-    "name": "duplicate",
-    "description": "This issue or pull request already exists",
-    "color": "cfd3d7"
+    "name": "Wertstoffhof",
+    "description": null,
+    "color": "5319e7"
+  },
+   {
+    "name": "01-workdays",
+    "description": null,
+    "color": "00ff00"
+  },
+  {
+    "name": "02-workdays",
+    "description": null,
+    "color": "22dd00"
+  },
+  {
+    "name": "03-workdays",
+    "description": null,
+    "color": "44bb00"
+  },
+  {
+    "name": "05-workdays",
+    "description": null,
+    "color": "779900"
+  },
+  {
+    "name": "08-workdays",
+    "description": null,
+    "color": "aa7700"
+  },
+  {
+    "name": "13-workdays",
+    "description": null,
+    "color": "cc5500"
+  },
+  {
+    "name": "20-workdays",
+    "description": null,
+    "color": "ee3300"
+  },
+  {
+    "name": "40-workdays",
+    "description": null,
+    "color": "ff0000"
+  },
+  {
+    "name": "99-workdays",
+    "description": null,
+    "color": "ff0055"
   },
   {
     "name": "effort-estimate-1",
@@ -68,31 +113,6 @@ const extracted_labels = [
     "color": "aa7700"
   },
   {
-    "name": "enhancement",
-    "description": "New feature or request",
-    "color": "a2eeef"
-  },
-  {
-    "name": "good first issue",
-    "description": "Good for newcomers",
-    "color": "7057ff"
-  },
-  {
-    "name": "help wanted",
-    "description": "Extra attention is needed",
-    "color": "008672"
-  },
-  {
-    "name": "invalid",
-    "description": "This doesn't seem right",
-    "color": "e4e669"
-  },
-  {
-    "name": "question",
-    "description": "Further information is requested",
-    "color": "d876e3"
-  },
-  {
     "name": "value-estimate-1",
     "description": null,
     "color": "000000"
@@ -136,11 +156,6 @@ const extracted_labels = [
     "name": "value-estimate-8",
     "description": null,
     "color": "777777"
-  },
-  {
-    "name": "wontfix",
-    "description": "This will not be worked on",
-    "color": "ffffff"
   }
 ];
 
