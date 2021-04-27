@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Project Title | Sticky documents app / Customer X
+Project Title | Title
 ------------ | ------------------------------------
 Mission Statement | State what the project wants to achieve. Describe its SMART impact (specific, measurable, action-oriented, relevant and time-bound)
 Success Criteria | Which measurable (process and outcome) objectives will determine the project’s success? What targets do you set?
